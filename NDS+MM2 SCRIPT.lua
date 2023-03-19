@@ -118,3 +118,4 @@ elseif game.PlaceId == 142823291
 
         Fly(true)
     end)
+end
